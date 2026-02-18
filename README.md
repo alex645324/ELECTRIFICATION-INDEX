@@ -9,3 +9,8 @@ Together, they reveal pressure building.
 The Electrification Index turns those early signs into one simple monthly signal.
 Because the system should not wait for failure to be understood.
 
+Visit the website: https://www.electrificationindex.com
+
+<a href="https://www.electrificationindex.com">
+  <img src="Website" width="800">
+</a>
