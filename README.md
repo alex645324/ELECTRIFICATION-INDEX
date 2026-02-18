@@ -1,4 +1,5 @@
 **ELECTRIFICATION-INDEX**
+
 We built a system that monitors the electric grid the way a doctor monitors a heartbeat.
 
 Instead of waiting for blackouts, it tracks early strain — longer equipment lead times, project delays, grid congestion.
