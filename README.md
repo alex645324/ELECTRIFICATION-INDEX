@@ -12,5 +12,5 @@ Because the system should not wait for failure to be understood.
 Visit the website: https://www.electrificationindex.com
 
 <a href="https://www.electrificationindex.com">
-  <img src="Website.png" width="400">
+  <img src="Website.png" width="600">
 </a>
